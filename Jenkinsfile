@@ -40,7 +40,7 @@ pipeline{
                 
                 script{
                     
-                    sh 'clean install'
+                    sh 'mvn clean install'
                 }
             }
         }
