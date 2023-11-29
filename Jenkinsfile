@@ -89,7 +89,7 @@ pipeline{
                     nexusUrl: '13.236.117.82:8081', 
                     nexusVersion: 'nexus3', 
                     protocol: 'http', 
-                    repository: 'Web-application2-release', 
+                    repository: 'web-application2-release', 
                     version: '1.0.0'
 
                       }
