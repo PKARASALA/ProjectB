@@ -90,7 +90,7 @@ pipeline{
                     nexusVersion: 'nexus3', 
                     protocol: 'http', 
                     repository: 'Web-application2-release', 
-                    version: '2.0.0'
+                    version: '1.0.0'
 
                       }
         }
