@@ -83,10 +83,10 @@ pipeline{
                             type: 'jar'
                         ]
                     ], 
-                    
+
                     credentialsId: 'Nexus-Admin', 
                     groupId: 'com.example', 
-                    nexusUrl: '54.206.122.108:8081', 
+                    nexusUrl: '13.236.117.82:8081', 
                     nexusVersion: 'nexus3', 
                     protocol: 'http', 
                     repository: 'Web-application2-release', 
